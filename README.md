@@ -1,4 +1,4 @@
-# Blogger Template
+# OddRodolf Blogger Template
 A bare basic Blogger template for the odd ball.
 You can find the demo at https://oddrodolf.blogspot.com
 It is a very basic Blogger BlogSpot template.
